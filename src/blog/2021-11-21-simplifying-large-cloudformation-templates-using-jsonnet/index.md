@@ -33,7 +33,7 @@ CloudFormation templates in large environments can grow beyond a manageable poin
 Jsonnet is a json pre-processing and templating library which includes features including user defined and built-in functions, objects, and inheritance amongst others.  If you are not familiar with Jsonnet, here are some good resources to start with:  
 
 - [Jsonnet](https://jsonnet.org/)
-- [Blog Article: Using Jsonnet to Configure Multiple Environments](https://cloudywithachanceofbigdata.com/using-jsonnet-to-configure-multiple-environments)
+- [Blog Article: Using Jsonnet to Configure Multiple Environments](https://fullstackchronicles.io/using-jsonnet-to-configure-multiple-environments)
 - [Blog Article: Using the Jsonnet Map Function](https://docs.infraql.io/blog/using-the-jsonnet-map-function)
 
 ## Advantages
@@ -109,7 +109,7 @@ You can validate this template using the AWS CLI as shown here:
 aws cloudformation validate-template --template-body file://template.json
 ```
 ## Deployment
-In a previous article, [Simplified AWS Deployments with CloudFormation and GitLab CI](https://cloudywithachanceofbigdata.com/aws-deployments-with-cloudformation-and-gitlab-ci), I demonstrated an end-to-end deployment pipeline using GitLab CI.  Jsonnet pre-processing can be added to this pipeline as an initial ‘preprocess’ stage and job.  A snippet from the `.gitlab-ci.yml` file is included here:  
+In a previous article, [Simplified AWS Deployments with CloudFormation and GitLab CI](https://fullstackchronicles.io/aws-deployments-with-cloudformation-and-gitlab-ci), I demonstrated an end-to-end deployment pipeline using GitLab CI.  Jsonnet pre-processing can be added to this pipeline as an initial ‘preprocess’ stage and job.  A snippet from the `.gitlab-ci.yml` file is included here:  
 
 <Gist id="14c4c2fdccb27884c69c31f7b3a17a99" 
 />

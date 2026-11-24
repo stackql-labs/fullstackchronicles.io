@@ -26,7 +26,7 @@ keywords:
 
 This is a follow up to the original Cloud Bigtable primer where we discussed the basics of Cloud Bigtable:
 
-[__Cloud Bigtable Primer - Part I__](https://cloudywithachanceofbigdata.com/cloud-bigtable-primer-part-i/)
+[__Cloud Bigtable Primer - Part I__](https://fullstackchronicles.io/cloud-bigtable-primer-part-i)
 
 In this article we will cover schema design and row key selection in Bigtable – arguably the most critical design decision to make when employing Bigtable in a cloud data architecture.
 

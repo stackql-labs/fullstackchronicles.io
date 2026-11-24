@@ -22,7 +22,7 @@ keywords:
 
 This is a follow up to the previous post:
 
-[__Sick of hearing about Service Mesh? Here’s what you need to know...__](https://cloudywithachanceofbigdata.com/sick-of-hearing-about-service-mesh-heres-what-you-need-to-know/)
+[__Sick of hearing about Service Mesh? Here’s what you need to know...__](https://fullstackchronicles.io/sick-of-hearing-about-service-mesh-heres-what-you-need-to-know)
 
 ## Refresher
 
