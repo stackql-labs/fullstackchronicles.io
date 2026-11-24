@@ -22,7 +22,7 @@ keywords:
 
 There are many posts available which map analogous services between the different cloud providers, but this post attempts to go a step further and map additional concepts, terms, and configuration options to be the definitive thesaurus for cloud practitioners familiar with AWS looking to fast track their familiarisation with GCP.
 
-It should be noted that AWS and GCP are fundamentally different platforms, nowhere is this more apparent than in the way networking is implemented between the two providers, see: [__GCP Networking for AWS Professionals__](https://cloudywithachanceofbigdata.com/gcp-networking-for-aws-professionals/)
+It should be noted that AWS and GCP are fundamentally different platforms, nowhere is this more apparent than in the way networking is implemented between the two providers, see: [__GCP Networking for AWS Professionals__](https://fullstackchronicles.io/gcp-networking-for-aws-professionals)
 
 This post is focused on the core infrastructure, networking and security services offered by the two major cloud providers, I will do a future post on higher level services such as the ML/AI offerings from the respective providers.
 

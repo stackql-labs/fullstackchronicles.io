@@ -24,7 +24,7 @@ When defining event-driven architectures, it's always good to keep up with how t
 
 My colleague [@jeffreyaven](https://www.linkedin.com/in/jeffreyaven/) did a recent post explaining this concept in simple terms, which is worth reviewing, see:
 
-[__Microservices Concepts: Orchestration versus Choreography__](https://cloudywithachanceofbigdata.com/microservices-concepts-orchestration-versus-choreography/)
+[__Microservices Concepts: Orchestration versus Choreography__](https://fullstackchronicles.io/microservices-concepts-orchestration-versus-choreography)
 
 Should there really be a central orchestrator controlling all interactions between services.....or, should each service work independently and only interact through events?
 

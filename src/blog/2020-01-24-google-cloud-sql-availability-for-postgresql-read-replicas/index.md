@@ -42,7 +42,7 @@ In this post we will look at read replicas as an additional method to achieve mu
 
 In the previous post in this series we looked at Regional availability for PostgreSQL HA using Cloud SQL:
 
-[__Google Cloud SQL – Availability, Replication, Failover for PostgreSQL – Part I__](https://cloudywithachanceofbigdata.com/google-cloud-sql-ha-backup-and-recovery-replication-failover-and-security-for-postgresql-part-i/)
+[__Google Cloud SQL – Availability, Replication, Failover for PostgreSQL – Part I__](https://fullstackchronicles.io/google-cloud-sql-ha-backup-and-recovery-replication-failover-and-security-for-postgresql)
 
 Recall that this option was simple to implement and worked relatively seamlessly and transparently with respect to zonal failover.
 

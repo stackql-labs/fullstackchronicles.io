@@ -22,7 +22,7 @@ keywords:
 
 So you're using BigQuery (BQ). It's all set up and humming perfectly. Maybe now, you want to run an ELT job whenever a new table partition is created, or maybe you want to retrain your ML model whenever new rows are inserted into the BQ table.
 
-In my previous article on [EventArc](https://cloudywithachanceofbigdata.com/eventarc-the-state-of-eventing-in-google-cloud/), we went through how Logging can help us create eventing-type functionality in your application. Let's take it a step further and walk through how we can couple BigQuery and Cloud Run.
+In my previous article on [EventArc](https://fullstackchronicles.io/eventarc-the-state-of-eventing-in-google-cloud), we went through how Logging can help us create eventing-type functionality in your application. Let's take it a step further and walk through how we can couple BigQuery and Cloud Run.
 
 In this article you will learn how to
 
