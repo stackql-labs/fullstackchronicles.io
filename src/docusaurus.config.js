@@ -124,6 +124,7 @@ const TwitterSvg =
         {name: 'og:site_name', content: 'Full Stack Chronicles'},
         {name: 'msapplication-TileColor', content: '#2d89ef'},
         {name: 'theme-color', content: '#ffffff'},
+        {name: 'algolia-site-verification', content: 'DE716658772E51BF'},
       ],
       announcementBar: {
         id: 'support_us',
